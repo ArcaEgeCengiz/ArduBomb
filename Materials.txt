@@ -1,0 +1,11 @@
+You'll need:
+    a Arduino UNO
+    a HC-06 bluetooth module
+    a green LED
+    a blue LED
+    a red LED
+    220Ω resistor x3
+    jumper wires
+    buzzer
+
+You can find the schematics at schematics.png file.
