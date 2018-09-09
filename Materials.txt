@@ -7,3 +7,5 @@ You'll need:
     220Ω resistor x3
     jumper wires
     buzzer
+
+You can find the schematics at schematics.png file.
