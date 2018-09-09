@@ -10,4 +10,5 @@ You'll need:
 
 You can find the schematics at schematics.png file.
 
-NOTE: You'll need to download bomb.apk to a Android Phone to connect to the ArduBomb and control it. And connect the bluetooth sensor AFTER uploading code to the Arduino.
+NOTE: You'll need to download bomb.apk to a Android Phone to connect to the ArduBomb and control it. And connect the 
+bluetooth sensor AFTER uploading code to the Arduino.
